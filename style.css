@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    min-height: 100vh;  /* full screen heigth*/
+    background-color: black;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    
+}
+h1 {
+    margin: auto 0;
+    
+}
